@@ -52,8 +52,9 @@ dashboard creation and insights generation.
 
 
 ## 💻 Contact
-<a href="https://www.instagram.com/arondomingues">
-  ![Alt text](image_url)
+
+<a href="https://www.instagram.com/arondomingues">  
+<img src="Instagram_Glyph_White.png" alt="Instagram Logo" width="50" height="50">
 </a>
 
 <!---
