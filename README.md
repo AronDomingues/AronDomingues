@@ -57,6 +57,13 @@ dashboard creation and insights generation.
 <img src="Instagram_Glyph_White.png" alt="Instagram Logo" width="50" height="50">
 </a>
 
+<br>
+
+<a href="https://www.linkedin.com/in/aron-domingues/">  
+<img src="LI-In-Bug.png" alt="Linkedin Logo" width="50" height="50">
+</a>
+
+
 <!---
 AronDomingues/AronDomingues is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
