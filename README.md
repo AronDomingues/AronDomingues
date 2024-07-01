@@ -2,7 +2,7 @@
 
 ## 📝Personal Profile
 
-I am a ** Brazilian bilingual Business Analyst** (Portuguese and English) with a BSc in Mechanical Engineering
+I am a **Brazilian bilingual Business Analyst** (Portuguese and English) with a BSc in Mechanical Engineering
 with overall 7 years of experience on preparing and modelling data, data visualization,
 dashboard creation and insights generation.
 
