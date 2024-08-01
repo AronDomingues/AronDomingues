@@ -26,7 +26,7 @@ dashboard creation and insights generation.
 - Data ETL 
 - Data plotting
 - Statistical analysis
-- Machine Learning
+- Unsupervised Machine Learning
   - Clustering
   - PCA Factor Analysis
   - MCA multiple correspondence analysis
